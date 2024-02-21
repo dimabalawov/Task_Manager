@@ -1,0 +1,12 @@
+#pragma once
+#include <windows.h>
+#include <windowsX.h>
+#include <stdio.h>
+#include <tchar.h>
+#include <Tlhelp32.h>
+#include <locale.h>
+#include <conio.h>
+#include <string>
+#include "resource.h"
+#include <tlhelp32.h>
+#include <iostream>
